@@ -1,0 +1,38 @@
+*** Software architecture ***
+
+- Requirements:
+  1. First, understand the problem.
+  2. Second, find the connection between the data and the unknown. You should obtain
+  eventually a plan of the solution.
+  3. Third, carry out your plan.
+  4. Fourth, examine the solution obtained.
+
+  Conceptual predecessors or analogies (for example, "things used before to ascend")
+  may provide a terminological basis for desribing the new needs.
+
+- Design:
+  . The traditional design phase is not exclusively "the place or the time" when a system's
+  architecture is developed--for that happens over the course of developmennt--but it is a 
+  time when perticular emphasis is placed on architectural concerns.
+
+  . Since principal design decisions are made throughout development, designing must be
+  seen as an aspect of many other development activities.
+
+  . Architectural decisions are of many different kinds, requiring a rich repertoire of 
+  design techniques.
+
+- Implementation:
+  The source code:
+    - Must not utilize major new computational elements that have no corresponding elements
+    in the architecture.
+
+    - Must not contain new connections between elements of the architecture (for example,
+    such as might be motivated by efficiency concerns) that are not found in the
+    architecture.
+
+- Analysis and testing:
+  Analysis and testing are conducted after the code has been written, in the testing phase.
+  In this context, the artifact beign examined is the code.
+
+- Evolution and maintenance:
+

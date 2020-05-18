@@ -1,0 +1,17 @@
+*** Software requirements specification SRS ***
+
+There are a set of guidelines to be followed while preparing the software requirement
+specification document. This includes:
+  - Purpose
+  - Scope
+  - Functional and nonfunctional requirements
+  - Software and hardware requirements for the project
+In addition to this, it also contains the information about environmental conditions
+required, safety and security requirements, software quality attributes of the project.
+
+What is a Software Requirements Specification document?
+  A Software requirements specification document describes the intended purpose,
+  requirements and nature of a software to be developed. It also includes the yield and
+  cost of the software.
+
+https://krazytech.com/projects/sample-software-requirements-specificationsrs-report-airline-database
